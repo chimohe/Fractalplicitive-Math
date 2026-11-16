@@ -1,5 +1,7 @@
 created using ChatGPT.  
-the first file is the complete repository files.  
+the first file is the complete repository files. 
+
+Fractalplicitive-Math-0.01-with-docs.tar.gz
 
 # Fractalplicitive::Math 0.01
 
