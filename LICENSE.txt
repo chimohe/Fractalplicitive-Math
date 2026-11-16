@@ -1,0 +1,4 @@
+License pending selection by copyright holder(s). This prototype archive is
+provided to the requesting user for evaluation and modification. It has not
+been released under an open-source license and has not been published to CPAN.
+Fractalplicitive theoretical manuscripts are attributed to Timothy Dean Firman.

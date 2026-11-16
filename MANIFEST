@@ -1,0 +1,13 @@
+Makefile.PL
+MANIFEST
+README.md
+LICENSE.txt
+lib/Fractalplicitive/Math.pm
+examples/demo.pl
+t/01-mathematics.t
+t/02-signal-and-optics.t
+t/03-invalid-input.t
+docs/THEORY.md
+docs/EQUATIONS.md
+docs/VALIDATION.md
+docs/REFERENCES.md
