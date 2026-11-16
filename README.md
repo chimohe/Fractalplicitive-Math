@@ -53,10 +53,10 @@ scientifically demonstrated new physical laws.
 
 ## Research documentation
 
-- [Theory and scope](docs/THEORY.md)
-- [Equations and function API](docs/EQUATIONS.md)
-- [Verification and validation](docs/VALIDATION.md)
-- [References and source provenance](docs/REFERENCES.md)
+- [Theory and scope](THEORY.md)
+- [Equations and function API](EQUATIONS.md)
+- [Verification and validation](VALIDATION.md)
+- [References and source provenance](REFERENCES.md)
 
 ## Quick start
 
