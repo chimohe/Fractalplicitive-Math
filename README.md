@@ -1,3 +1,6 @@
+created using ChatGPT.  
+the first file is the complete repository files.  
+
 # Fractalplicitive::Math 0.01
 
 An executable **Perl / CPAN-style research module** implementing selected
