@@ -141,3 +141,23 @@ an explicit software license, then complete publishing metadata.
 
 Original conceptual frameworks attributed to Timothy Dean Firman; the working
 software prototype is provided for review.
+
+Comparative Analysis: Fractalplicitive Mathematics vs. Conventional Fractal Mathematics
+
+Conventional fractal mathematics studies self-similar geometric structures, recursive patterns, scaling laws, and fractional dimensions. Its applications include natural formations, chaos theory, computer graphics, and complex systems.
+
+Fractalplicitive Mathematics, developed by Timothy Dean Firman, extends recursive mathematical modeling to proposed relationships involving time, energy, momentum, spatial displacement, harmonic waveforms, and information processing.
+
+The primary distinction is that conventional fractal mathematics describes how structures repeat or vary across scales, whereas Fractalplicitive Mathematics proposes using recursive scaling to model how physical quantities and interactions may evolve across successive iterations.
+
+For example, Fractalplicitive Time Theory introduces a recursive progression:
+
+[
+t_n=t_{n-1}(1+\gamma^n)
+]
+
+Fractalplicitive Inverse Theory additionally explores inverse geometric scaling applied to momentum and other quantities.
+
+Scientific distinction: Fractalplicitive Mathematics incorporates established mathematical operations but applies them within an original, exploratory theoretical framework. Its numerical models can be calculated and tested, while its proposed physical interpretations remain unvalidated.
+
+Conclusion: Fractalplicitive Mathematics is best understood as a proposed interdisciplinary extension and application of recursive mathematics, rather than a replacement for established fractal geometry.
