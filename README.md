@@ -1,6 +1,8 @@
 created using ChatGPT.   
 
 tree structure 
+
+
 Fractalplicitive-Math/
 │
 ├── README.md                  ✓ Already included
