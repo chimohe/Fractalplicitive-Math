@@ -140,4 +140,4 @@ CPAN. Before public distribution, obtain copyright-holder permission and choose
 an explicit software license, then complete publishing metadata.
 
 Original conceptual frameworks attributed to Timothy Dean Firman; the working
-software prototype is provided for review with no separate public license grant.
+software prototype is provided for review.
