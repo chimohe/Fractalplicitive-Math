@@ -1,6 +1,35 @@
-created using ChatGPT.  
-the first file is the complete repository files. 
+created using ChatGPT.   
 
+tree structure 
+Fractalplicitive-Math/
+│
+├── README.md                  ✓ Already included
+├── LICENSE                    Important: choose license
+├── Makefile.PL                ✓ Already included
+├── MANIFEST                   ✓ Already included
+├── Changes                    Version history
+├── CONTRIBUTING.md            Research contributions
+├── CITATION.cff               How to cite your software
+├── .gitignore                 Exclude build files
+│
+├── lib/
+│   └── Fractalplicitive/
+│       └── Math.pm            ✓ Already included
+│
+├── examples/
+│   └── demo.pl                ✓ Already included
+│
+├── t/
+│   ├── 01-mathematics.t       ✓ Already included
+│   ├── 02-signal-and-optics.t ✓ Already included
+│   └── 03-invalid-input.t     ✓ Already included
+│
+└── docs/
+    ├── THEORY.md
+    ├── EQUATIONS.md
+    ├── VALIDATION.md
+    └── REFERENCES.md
+    
 Fractalplicitive-Math-0.01-with-docs.tar.gz
 
 # Fractalplicitive::Math 0.01
