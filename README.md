@@ -3,24 +3,44 @@ created using ChatGPT.
 tree structure 
 
 Fractalplicitive-Math-0.01/
+
 ├── LICENSE.txt
+
 ├── MANIFEST
+
 ├── Makefile.PL
+
 ├── README.md
+
 ├── docs/
+
 │   ├── EQUATIONS.md
+
 │   ├── REFERENCES.md
+
 │   ├── THEORY.md
+
 │   └── VALIDATION.md
+
 ├── examples/
+
 │   └── demo.pl
+
 ├── lib/
+
 │   └── Fractalplicitive/
+
 │       └── Math.pm
+
 └── t/
+
     ├── 01-mathematics.t
+    
     ├── 02-signal-and-optics.t
+
     └── 03-invalid-input.t
+    
+
     
 Fractalplicitive-Math-0.01-with-docs.tar.gz
 
